@@ -1,2 +1,2 @@
 # Python
-In this repository I will cover the whole python promming step by step in jupyter notebook with code and comments .
+In this repository I will cover the whole python programming step by step in jupyter notebook with code and comments .
